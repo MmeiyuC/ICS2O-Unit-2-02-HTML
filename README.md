@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-	<h1>My First Heading</h1>
-	<p>Hello World!</p>
-	<a href="http://teh.ocsb.ca/" School website</a>
-		<img src="i66.tinypic.com/29kpd3k.png" alt="MTHS icon">
- </body>
-</html>
+# ICS2O-Unit-2-02-HTML
+Webpage with proper style
+[![linter](https://github.com/MmeiyuC/ICS2O-Unit-2-02-HTML/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)       
